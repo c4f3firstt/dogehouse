@@ -1,5 +1,5 @@
 {
-  "_comment": "if you change this file, do: npm run i18",
+  "_comment": "if you change this file, do: yarn i18",
   "common": {
     "loadMore": "ngarko më tepër",
     "loading": "duke ngarkuar...",
@@ -99,7 +99,8 @@
       "copyProfileUrl": "copy profile url",
       "urlCopied": "URL copied to clipboard",
       "unfollow": "Unfollow",
-      "about": "About"
+      "about": "About",
+      "bot": "Bot"
     },
     "voiceSettings": {
       "header": "Cilësime e zërit",
@@ -195,7 +196,7 @@
       "editProfileModal": {
         "usernameTaken": "emri i përdoruesit është i zënë",
         "avatarUrlError": "Fotografi e pavlefshme",
-        "avatarUrlLabel": "url i avatarit të GitHub/Twitter",
+        "avatarUrlLabel": "url i avatarit të Github/Twitter/Discord",
         "displayNameError": "gjatësia 2 deri 50 shkronja",
         "displayNameLabel": "Emri i Shfaqur",
         "usernameError": "gjatësia 4 deri 15 shkronja dhe vetëm alphanumerik/nevizim",
@@ -252,7 +253,8 @@
       "debugAudio": {
         "debugAudio": "Debug Audio",
         "stopDebugger": "Stop Debugger"
-      }
+      },
+      "downloadApp": "Download App"
     }
   },
   "modules": {

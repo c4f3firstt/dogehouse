@@ -1,5 +1,5 @@
 {
-  "_comment": "if you change this file, do: npm run i18",
+  "_comment": "if you change this file, do: yarn i18",
   "common": {
     "loadMore": "hlaða meira",
     "loading": "hleður...",
@@ -99,7 +99,8 @@
       "copyProfileUrl": "copy profile url",
       "urlCopied": "URL copied to clipboard",
       "unfollow": "Unfollow",
-      "about": "About"
+      "about": "About",
+      "bot": "Bot"
     },
     "voiceSettings": {
       "header": "Talstillingar",
@@ -195,7 +196,7 @@
       "editProfileModal": {
         "usernameTaken": "notendanafn tekið",
         "avatarUrlError": "Ógild mynd",
-        "avatarUrlLabel": "GitHub/Twitter avatar slóð",
+        "avatarUrlLabel": "Github/Twitter/Discord avatar slóð",
         "displayNameError": "lengd 2 til 50 stafir",
         "displayNameLabel": "Sýna nafn",
         "usernameError": "lengd 4 til 15 stafir og aðeins tölustafur / undirstrikun",
@@ -252,7 +253,8 @@
       "debugAudio": {
         "debugAudio": "Debug Audio",
         "stopDebugger": "Stop Debugger"
-      }
+      },
+      "downloadApp": "Download App"
     }
   },
   "modules": {

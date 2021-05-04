@@ -1,5 +1,5 @@
 {
-  "_comment": "if you change this file, do: npm run i18",
+  "_comment": "if you change this file, do: yarn i18",
   "common": {
     "loadMore": "ŝarĝi pli",
     "loading": "ŝarĝante...",
@@ -99,7 +99,8 @@
       "copyProfileUrl": "copy profile url",
       "urlCopied": "URL copied to clipboard",
       "unfollow": "Unfollow",
-      "about": "About"
+      "about": "About",
+      "bot": "Bot"
     },
     "voiceSettings": {
       "header": "Voĉaj Agordoj",
@@ -199,7 +200,7 @@
       "editProfileModal": {
         "usernameTaken": "Uzantnomo estis prenita",
         "avatarUrlError": "Nevalida bildo",
-        "avatarUrlLabel": "URL de GitHub/Twitter avataro",
+        "avatarUrlLabel": "URL de Github/Twitter/Discord avataro",
         "displayNameError": "longo 2 ĝis 50 signoj",
         "displayNameLabel": "Vidiga Nomo",
         "usernameError": "longo 4 ĝis 15 signoj kaj nur alfanombra/substreko",
@@ -256,7 +257,8 @@
       "debugAudio": {
         "debugAudio": "Debug Audio",
         "stopDebugger": "Stop Debugger"
-      }
+      },
+      "downloadApp": "Download App"
     }
   },
   "modules": {

@@ -82,18 +82,18 @@ export const RoomChatInput: React.FC<ChatInputProps> = ({ users }) => {
 
   // useEffect(() => {
   //   const id = setInterval(() => {
-  //     conn.send("send_room_chat_msg", createChatMessage("spam", [], []));
+  //     conn.send("send_room_chat_msg", createChatMessage("spam"));
   //   }, 1001);
 
   //   return () => {
   //     clearInterval(id);
   //   };
-  // // eslint-disable-next-line react-hooks/exhaustive-deps
+  //   // eslint-disable-next-line react-hooks/exhaustive-deps
   // }, []);
 
   return (
     <form onSubmit={handleSubmit} className={`pb-3 px-4 pt-2 flex flex-col`}>
-      <div className={`flex mb-1`}>
+      <div className={`mb-1 block relative`}>
         <EmojiPicker
           emojiSet={customEmojis}
           onEmojiSelect={(emoji) => {

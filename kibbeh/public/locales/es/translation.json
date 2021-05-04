@@ -97,7 +97,8 @@
       "followingHim": "Siguiendo",
       "copyProfileUrl": "Copiar URL del perfil",
       "urlCopied": "URL copiado en el portapapeles",
-      "about": "About"
+      "about": "About",
+      "bot": "Bot"
     },
     "voiceSettings": {
       "header": "Ajustes de voz",
@@ -205,7 +206,8 @@
       "debugAudio": {
         "debugAudio": "Debug Audio",
         "stopDebugger": "Stop Debugger"
-      }
+      },
+      "downloadApp": "Download App"
     },
     "modals": {
       "createRoomModal": {
@@ -227,7 +229,7 @@
       "editProfileModal": {
         "usernameTaken": "Nombre de usuario ya ocupado",
         "avatarUrlError": "Imagen inválida",
-        "avatarUrlLabel": "URL del avatar de GitHub/Twitter",
+        "avatarUrlLabel": "URL del avatar de Github/Twitter/Discord",
         "displayNameError": "Longitud de 2 a 50 caracteres",
         "displayNameLabel": "Nombre a mostrar",
         "usernameError": "Longitud de 4 a 15 caracteres y solo puede contener caracteres alfanuméricos/guión bajo",

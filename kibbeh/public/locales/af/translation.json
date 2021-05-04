@@ -1,5 +1,5 @@
 {
-  "_comment": "if you change this file, do: npm run i18",
+  "_comment": "if you change this file, do: yarn i18",
   "common": {
     "loadMore": "Laai Meer",
     "loading": "Laai Tans...",
@@ -99,7 +99,8 @@
       "copyProfileUrl": "copy profile url",
       "urlCopied": "URL copied to clipboard",
       "unfollow": "Unfollow",
-      "about": "About"
+      "about": "About",
+      "bot": "Bot"
     },
     "voiceSettings": {
       "header": "Stem instellings",
@@ -197,7 +198,7 @@
       "editProfileModal": {
         "usernameTaken": "gebruikersnaam geneem",
         "avatarUrlError": "Ongeldige foto",
-        "avatarUrlLabel": "GitHub/Twitter avatar skakel",
+        "avatarUrlLabel": "Github/Twitter/Discord avatar skakel",
         "displayNameError": "lengte 2 tot 50 karakters",
         "displayNameLabel": "Vertoonnaam",
         "usernameError": "Lengte 4 tot 15 karakters en slegte alfanumeries/onderstreep",
@@ -254,7 +255,8 @@
       "debugAudio": {
         "debugAudio": "Debug Audio",
         "stopDebugger": "Stop Debugger"
-      }
+      },
+      "downloadApp": "Download App"
     }
   },
   "modules": {

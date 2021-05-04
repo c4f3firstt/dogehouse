@@ -1,5 +1,5 @@
 {
-  "_comment": "if you change this file, do: npm run i18",
+  "_comment": "if you change this file, do: yarn i18",
   "common": {
     "loadMore": "Pakrauti daugiau",
     "loading": "Kraunasi...",
@@ -99,7 +99,8 @@
       "copyProfileUrl": "copy profile url",
       "urlCopied": "URL copied to clipboard",
       "unfollow": "Unfollow",
-      "about": "About"
+      "about": "About",
+      "bot": "Bot"
     },
     "voiceSettings": {
       "header": "Garso nustatymai",
@@ -198,7 +199,7 @@
       "editProfileModal": {
         "usernameTaken": "Vardas užimtas, panaudotas",
         "avatarUrlError": "Negalima nuotrauka",
-        "avatarUrlLabel": "Github/Twitter avataro nuoroda",
+        "avatarUrlLabel": "Github/Twitter/Discord avataro nuoroda",
         "displayNameError": "Ilgis nuo 2 iki 50 simbolių",
         "displayNameLabel": "Rodyti vardą",
         "usernameError": "Ilgis nuo 4 iki 15 simbolių ir tik raidinis(arba skaitmeninis)/apatinis pabraukimas",
@@ -255,7 +256,8 @@
       "debugAudio": {
         "debugAudio": "Debug Audio",
         "stopDebugger": "Stop Debugger"
-      }
+      },
+      "downloadApp": "Download App"
     }
   },
   "modules": {

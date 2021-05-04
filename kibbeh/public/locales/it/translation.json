@@ -98,7 +98,8 @@
       "copyProfileUrl": "Copia link del profilo",
       "urlCopied": "Link copiato negli appunti",
       "unfollow": "Smetti di seguire",
-      "about": "About"
+      "about": "About",
+      "bot": "Bot"
     },
     "voiceSettings": {
       "header": "Impostazioni della voce",
@@ -200,7 +201,7 @@
       "editProfileModal": {
         "usernameTaken": "Nome utente già preso",
         "avatarUrlError": "Immagine invalida",
-        "avatarUrlLabel": "Url dell'avatar di Github/Twitter",
+        "avatarUrlLabel": "Url dell'avatar di Github/Twitter/Discord",
         "displayNameError": "Deve essere lungo dai 2 ai 50 caratteri",
         "displayNameLabel": "Nome da mostrare agli altri utenti",
         "usernameError": "Il nome utente deve essere lungo dai 4 ai 15 caratteri e può solo contenere caratteri alfanumerici e trattini bassi",
@@ -257,7 +258,8 @@
       "debugAudio": {
         "debugAudio": "Debug Audio",
         "stopDebugger": "Stop Debugger"
-      }
+      },
+      "downloadApp": "Download App"
     }
   },
   "modules": {

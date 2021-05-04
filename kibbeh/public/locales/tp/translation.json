@@ -1,5 +1,5 @@
 {
-  "_comment": "if you change this file, do: npm run i18",
+  "_comment": "if you change this file, do: yarn i18",
   "common": {
     "loadMore": "tenpo kama la sin li lon",
     "loading": "sin li kama...",
@@ -102,7 +102,8 @@
       "followingHim": "sina li lukin e jan ni",
       "copyProfileUrl": "tu e sitelen tawa pi jan ni",
       "urlCopied": "ni li tu",
-      "about": "About"
+      "about": "About",
+      "bot": "Bot"
     },
     "voiceSettings": {
       "header": "sitelen lawa pi kalama uta",
@@ -202,7 +203,7 @@
       "editProfileModal": {
         "usernameTaken": "jan sin li jo e nimi nanpa ni",
         "avatarUrlError": "sitelen sina li ike",
-        "avatarUrlLabel": "sitelen tawa pi sitelen sina pi lipu Github/Twitter",
+        "avatarUrlLabel": "sitelen tawa pi sitelen sina pi lipu Github/Twitter/Discord",
         "displayNameError": "anpa pi suli li tu. anpa sewi pi suli li mute mute luka luka.",
         "displayNameLabel": "nimi",
         "usernameError": "anpa pi suli li tu tu. anpa sewi pi suli li luka luka luka. wan pi nimi li sitelen Latin anu nanpa anu linja anpa",
@@ -259,7 +260,8 @@
       "debugAudio": {
         "debugAudio": "Debug Audio",
         "stopDebugger": "Stop Debugger"
-      }
+      },
+      "downloadApp": "Download App"
     }
   },
   "modules": {

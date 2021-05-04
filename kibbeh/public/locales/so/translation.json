@@ -1,5 +1,5 @@
 {
-  "_comment": "if you change this file, do: npm run i18",
+  "_comment": "if you change this file, do: yarn i18",
   "common": {
     "loadMore": "load more",
     "loading": "loading...",
@@ -99,7 +99,8 @@
       "copyProfileUrl": "naqli xiriiriyaha kontada",
       "urlCopied": "URL copied to clipboard",
       "unfollow": "Unfollow",
-      "about": "About"
+      "about": "About",
+      "bot": "Bot"
     },
     "voiceSettings": {
       "header": "hagaajinta codka",
@@ -201,7 +202,7 @@
       "editProfileModal": {
         "usernameTaken": "magaca isticmaalahan waa la qaatay",
         "avatarUrlError": "Invalid image",
-        "avatarUrlLabel": "GitHub/Twitter avatar url",
+        "avatarUrlLabel": "Github/Twitter/Discord avatar url",
         "displayNameError": "2 ilaa 50 xaraf",
         "displayNameLabel": "magaca bandhigmaya",
         "usernameError": "4 ilaa 15 xaraf oo ah alphanumeric/underscore kaliya",
@@ -258,7 +259,8 @@
       "debugAudio": {
         "debugAudio": "Debug Audio",
         "stopDebugger": "Stop Debugger"
-      }
+      },
+      "downloadApp": "Download App"
     }
   },
   "modules": {
